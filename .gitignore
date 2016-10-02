@@ -1,0 +1,4 @@
+Bencher-Scenarios-FileWriteRotate-*
+.build
+*~
+nytprof*
