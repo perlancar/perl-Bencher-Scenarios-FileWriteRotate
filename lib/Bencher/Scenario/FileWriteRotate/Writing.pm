@@ -10,6 +10,9 @@ use File::Temp;
 
 our $scenario = {
     summary => 'Benchmark writing using File::Write::Rotate',
+    modules => {
+        'File::Write::Rotate' => {version=>'0.28'},
+    },
     precision => 6,
     participants => [
         {
