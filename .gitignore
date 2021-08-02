@@ -2,3 +2,4 @@ Bencher-Scenarios-FileWriteRotate-*
 .build
 *~
 nytprof*
+.DS_Store
